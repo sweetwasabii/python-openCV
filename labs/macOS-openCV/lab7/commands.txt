@@ -1,0 +1,5 @@
+компиляция:
+g++ $(pkg-config --cflags --libs /usr/local/Cellar/opencv/4.6.0_1/lib/pkgconfig/opencv4.pc) -std=c++11  read_image.cpp -o read_image
+
+запуск:
+./read_image
