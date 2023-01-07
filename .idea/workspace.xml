@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98b44e2a-1ad8-4926-9797-bce8958fb8ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-openCV.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/python-openCV.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/BorderSelection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/LR3example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/evil_tumor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/evil_tumor2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/good_brain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/insult.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/metastases.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/multiple_sclerosis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/brain/описание.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/digits/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/digits/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/digits/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/digits/digits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/images/tumor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/lab1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/lab12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/lab2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/lab3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/lab3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/lab4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/load.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/invis.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/main_video.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/output_video.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/save/art.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/save/input1.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/save/input2.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/save/tel.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/python-openCV/video/telik.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/lab3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/reports/lab3.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K0q3YKgVvNMiNozIMeJ8hcdKUF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="lab2_v" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/windows-openCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/windows-openCV/lab2_v.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab2_v" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b44e2a-1ad8-4926-9797-bce8958fb8ef" name="Changes" comment="" />
+      <created>1673121651928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673121651928</updated>
+      <workItem from="1673121654064" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_openCV$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1673121697415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labs/windows-openCV" />
+    <SUITE FILE_PATH="coverage/python_openCV$lab2_v.coverage" NAME="lab2_v Coverage Results" MODIFIED="1673121711407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/labs/windows-openCV" />
+  </component>
+</project>
